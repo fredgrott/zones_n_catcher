@@ -12,7 +12,7 @@ My bias is that I contribute to this Flutter Community package.
 
 This is the friends free link to the article:
 
-[Master Zones For Super App Exception Powers]()
+[Master Zones For Super App Exception Powers](https://fredgrott.medium.com/master-zones-for-super-app-exception-powers-2a4f24ae39a?sk=4d1f7aa2f25190d956b871e31acd828d)
 
 And you should sign up for my Email newsletter at my medium blog:
 
