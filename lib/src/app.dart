@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
           restorationScopeId: 'app',
 
           // required for the Catcher Error screen report mode
-          navigatorKey: myNavigatorKey,
+          navigatorKey: Catcher.navigatorKey,
 
 
           // Provide the generated AppLocalizations to the MaterialApp. This
